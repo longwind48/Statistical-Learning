@@ -1,5 +1,5 @@
 # five different resampling methods that you can use to evaluate the accuracy of your data in R.
-
+#test
 # *************Data splitting*************
 # -> involves partitioning the data into an explicit training dataset used to prepare
 #    the model and an unseen test dataset used to evaluate the models performance on unseen data.
